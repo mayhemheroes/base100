@@ -1,0 +1,6 @@
+project: base100
+target: convert
+duration: 90
+
+cmds:
+    - cmd: /convert
